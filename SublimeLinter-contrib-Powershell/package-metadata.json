@@ -1,0 +1,1 @@
+{"sublime_text": ">=3000", "version": "1.0.7", "platforms": ["*"], "dependencies": [], "url": "https://github.com/EdrisT/SublimeLinter-contrib-Powershell", "description": "SublimeLinter plugin for PowerShell"}

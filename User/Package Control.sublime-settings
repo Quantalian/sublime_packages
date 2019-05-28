@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Git",
+		"GitGutter",
+		"Materialize",
+		"Package Control",
+		"PowerShell",
+		"Predawn",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter-contrib-Powershell",
+		"Terminality",
+		"Themr"
+	]
+}
